@@ -14,7 +14,7 @@ foreach ($Computer in $computerList)
 {
 Rename-Computer -ComputerName $Computer.OldName `
                 -NewName $Computer.NewName `
-                -LocalCredential $Credential `
+                -DomainCredential $Credential `
                 -Force `
                 -Restart           
 }
