@@ -1,3 +1,7 @@
+# Set-Dns-ServerAddresses.ps1
+# v0.1
+# wwww.jorgebernhardt.com
+
 Get-NetAdapter | Select-Object InterfaceAlias , InterfaceIndex
 
 Get-DnsClientServerAddress -InterfaceIndex 9
