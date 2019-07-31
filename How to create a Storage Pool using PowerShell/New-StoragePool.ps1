@@ -1,4 +1,4 @@
-# Rename-Computers-CSV.ps1
+# New-StoragePool.ps1
 # v0.1
 # wwww.jorgebernhardt.com
 
