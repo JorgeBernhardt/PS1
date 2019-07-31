@@ -1,5 +1,5 @@
 # New-SharedFolder.ps1
-# v0.1
+# https://www.jorgebernhardt.com/how-to-create-a-shared-folder-using-powershell/
 # wwww.jorgebernhardt.com
 
 New-Item 'c:\Parent-Directory\Sub-Directory' -ItemType Directory
