@@ -1,4 +1,6 @@
-
+# New-SharedFolder.ps1
+# v0.1
+# wwww.jorgebernhardt.com
 
 New-Item 'c:\Parent-Directory\Sub-Directory' -ItemType Directory
 
