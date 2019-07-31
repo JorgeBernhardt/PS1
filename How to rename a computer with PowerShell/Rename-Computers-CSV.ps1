@@ -1,5 +1,5 @@
-﻿# Rename-Computers-CSV.ps1
-# v0.1
+# Rename-Computers-CSV.ps1
+# https://www.jorgebernhardt.com/how-to-rename-computer-with-powershell/
 # wwww.jorgebernhardt.com
 
 $File = 'c:\script\ComputerList.csv'
