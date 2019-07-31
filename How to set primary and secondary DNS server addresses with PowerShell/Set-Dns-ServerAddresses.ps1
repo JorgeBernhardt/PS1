@@ -1,5 +1,5 @@
 # Set-Dns-ServerAddresses.ps1
-# v0.1
+# https://www.jorgebernhardt.com/how-to-set-dns-server-addresses-with-set-dnsclientserveraddress/
 # wwww.jorgebernhardt.com
 
 Get-NetAdapter | Select-Object InterfaceAlias , InterfaceIndex
