@@ -1,5 +1,5 @@
 # Set-NetworkProfile.ps1
-# v0.1
+# https://www.jorgebernhardt.com/how-to-force-a-network-profile-in-windows-using-powershell/
 # wwww.jorgebernhardt.com
 
 Get-NetConnectionProfile
