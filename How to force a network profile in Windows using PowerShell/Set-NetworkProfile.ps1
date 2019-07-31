@@ -1,4 +1,6 @@
-
+# Set-NetworkProfile.ps1
+# v0.1
+# wwww.jorgebernhardt.com
 
 Get-NetConnectionProfile
 
