@@ -1,3 +1,6 @@
+# Disable-ipv6.ps1
+# v0.1
+# wwww.jorgebernhardt.com
 Get-NetAdapter 
 
 Get-NetAdapterBinding -Name Ethernet 
